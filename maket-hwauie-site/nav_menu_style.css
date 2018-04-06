@@ -1,0 +1,183 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+ nav h1{
+  text-align: center;
+  background-color:#A6B8D5;
+  font-family: 'Righteous', cursive;
+   color: #fff;
+}
+nav{
+ background-image:url('https://businesstoday.co.ke/wp-content/uploads/2017/12/Huawei-Mate-10-Lite.jpg');
+	background-repeat: no-repeat;
+  width: 100%;
+ height: 644px;
+}
+nav ul {
+    list-style: none;
+ }
+nav ul li {
+ display: block;
+  float: left;
+text-align: center;
+ line-height: 40px;
+width: 20%;
+}
+nav ul li a {
+  text-decoration: none;
+ display: block;
+ height: 50px;
+width: 100%;
+background-color: #A6B8D5;
+transition: 1s;
+}
+ nav ul li a:hover{
+  background-color: #996600;
+  border-radius: 22px;
+   display: block;
+ }
+ .slide{
+position: absolute;
+   width: 444px;
+ height: 644px;
+
+    }
+.slide p {
+      font-family: 'Old Standard TT', serif;
+      padding-left: 30px;
+      padding-top: 9px;
+      float: left;
+      padding-top: 79px;
+
+       }
+.slide h3{
+ font-family: 'Shadows Into Light', cursive;
+padding-left: 33px;
+text-align: center;
+font-size: 33px;
+font-weight: bold;
+
+       }
+.art{
+  width: 800px;
+  height: 333px;
+}
+ .art p{
+   width: 800PX;
+   height: 300PX;
+   padding-top: 9px;
+   padding-left: 33px;
+   text-align: center;
+  font-family: 'Old Standard TT', serif;
+
+  }
+    .art h2{
+      padding-top:40px;
+      padding-left: 33px;
+      font-weight: bold;
+      font-size: 33px;
+font-family: 'Shadows Into Light', cursive;
+}
+input{
+  position: absolute;
+  width: 110PX;
+  height: 61px;
+  background: #fff;
+  border-radius: 21px;
+  margin-left: 607PX;
+ MARGIN-TOP: 484PX;
+ border: 9px ;
+}
+input:hover{
+  background: skyblue;
+  font-weight: bold;
+
+}
+iframe{
+  position: absolute;
+  padding-left:0PX;
+  background-color: #2173BD;
+}
+.foter{
+  margin-top: 50px;
+  width: 100%;
+  height: 300px;
+  background: #000;
+}
+.foter ul li a {
+  margin-top: 22px;
+margin-left: 1110px;
+  position: absolute;
+  float: left;
+  text-decoration: none;
+
+  transition: 2s;
+}
+.foter ul li {
+     line-height: 1.8;
+}
+.foter ul li a:hover{
+  background: #996600;
+  /* width: 98px;
+  height:32px; */
+  border-radius: 21px;
+
+}
+.foter p {
+  color: #fff;
+  text-align: center;
+  margin-top: 100px;
+  font-family: 'Old Standard TT', serif;
+
+}
+img{
+margin:33px;
+padding:  22px;
+  width: 300px;
+  height: 300px;
+  border-radius: 33px;
+
+}
+.port{
+  width: 100%;
+  height: 900px;
+ padding-top: 600px;
+background: #BED5B6;
+
+
+}
+.last-section{
+  background-image: url('https://www.numerama.com/content/uploads/2017/11/huawei-mate-10-pro-hand.jpg');
+	background-repeat: no-repeat;
+  width: 100%;
+  height: 1000px;
+  border-radius: 33px;
+}
+.last-section h3{
+  padding-top: 9px;
+  padding-left: 33px;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 33px;
+  font-weight: bold;
+}
+.last-section p {
+  width: 800PX;
+  height: 300PX;
+  font-size: 21px;
+  font-weight: bold;
+  color: #7A4F9C;
+  padding-top: 9px;
+  padding-left: 21px;
+  text-align: center;
+ font-family: 'Old Standard TT', serif;
+ background-color: #fff;
+ opacity: .8;
+}
+.last-section p:hover{
+  opacity: 1;
+ color: #000;
+ margin-left: 62px;
+ margin-top: 62px;
+ background: #d2d2d2;
+}
